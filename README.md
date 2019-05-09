@@ -1,6 +1,9 @@
 # LSTM
 RNN-LSTM
 
+A Gentle Introduction to Backpropagation Through Time
+https://machinelearningmastery.com/gentle-introduction-backpropagation-time/
+
 Day 14：循環神經網路(Recurrent Neural Network, RNN)
 https://ithelp.ithome.com.tw/articles/10193469
 
